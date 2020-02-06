@@ -4,5 +4,5 @@ OOP Module Assignment 1
 
 
 Joe Delaney
-Oliver Faireweather
+Oliver Fairweather
 Sam Price
