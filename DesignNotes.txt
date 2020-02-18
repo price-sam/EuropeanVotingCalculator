@@ -1,1 +1,10 @@
+Qualified Majority Rules
 
+REJECTION:
+
+EITHER
+Must be at least 13 member states voting "no" regardless of population
+
+OR
+Over 35% of the population voting "no" given that percentage is comprised
+of at least 4 member states
